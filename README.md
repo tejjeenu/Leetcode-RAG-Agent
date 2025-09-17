@@ -2,6 +2,13 @@
 
 This is a web-based Leetcode practice assistant. It helps users learn and review coding problems using spaced repetition, personalized learning plans, and topic tracking.
 
+## Web App Link
+
+You can try the app here:  
+[https://rag-agent-74989.web.app/](https://rag-agent-74989.web.app/)
+
+## Functionalities
+
 - Users interact with an AI agent through a chat interface.
 - The agent assigns daily Leetcode problems, evaluates answers, and adapts the learning plan based on user progress and struggles.
 - Users can practice specific topics, adjust their daily learning rate, view their learning plan, and request performance reviews.
