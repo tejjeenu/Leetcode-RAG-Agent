@@ -1,18 +1,61 @@
-## What does this app do?
+# 💻 Leetcode Agent 
 
-This is a web-based Leetcode practice assistant. It helps users learn and review coding problems using spaced repetition, personalized learning plans, and topic tracking.
+A web-based app that helps users **learn and review coding problems effectively** using spaced repetition, personalized learning plans, and topic tracking.  
 
-## Web App Link
+---
 
-You can try the app here:  
-[https://rag-agent-74989.web.app/](https://rag-agent-74989.web.app/)
+## 🌍 Problem  
 
-## Functionalities
+Many users struggle to consistently improve their coding skills on platforms like Leetcode because:  
+- They lack a **structured learning plan**, often randomly selecting problems.  
+- It’s hard to **track progress by topic** or focus on weak areas.  
+- Practice isn’t always **personalized**, leading to slow learning and repeated mistakes.  
 
-- Users interact with an AI agent through a chat interface.
-- The agent assigns daily Leetcode problems, evaluates answers, and adapts the learning plan based on user progress and struggles.
-- Users can practice specific topics, adjust their daily learning rate, view their learning plan, and request performance reviews.
-- All progress and problem data are stored securely in Firebase.
-- The backend uses FastAPI to manage agent logic, spaced repetition, and topic recommendations.
+---
 
-This app is designed to make Leetcode practice more effective and personalized for each individual
+## ✅ Solution  
+
+The **Leetcode Agent** addresses these challenges by:  
+- **AI-Powered Learning:** AI agent assigns problems, evaluates answers, and adapts the learning plan based on performance.  
+- **Personalized Practice:** Users can practice specific topics, adjust daily learning targets, and receive tailored recommendations.  
+- **Spaced Repetition:** Problems are reviewed intelligently to maximize retention and reinforce weak areas.  
+- **Progress Tracking:** All performance data is securely stored, allowing users to monitor improvements over time.  
+
+---
+
+## 🌐 Web App  
+
+Try it here:  
+👉 [Leetcode Practice Assistant](https://rag-agent-74989.web.app/)  
+
+---
+
+## ✨ Functionalities  
+
+- Chat interface with AI agent for interactive learning  
+- Daily problem assignments tailored to skill and topic mastery  
+- Answer evaluation and performance-based plan adjustments  
+- Topic-specific practice and customizable daily learning goals  
+- Secure progress and problem tracking with **Firebase**  
+- Backend logic using **FastAPI** to manage spaced repetition, topic recommendations, and adaptive learning  
+
+---
+
+## 🛠️ Technologies Used  
+
+- **React** – Frontend interface  
+- **Firebase** – Authentication and data storage  
+- **FastAPI** – Backend API for agent logic and spaced repetition  
+
+---
+
+## 🌟 Impact  
+
+This app makes **Leetcode practice more effective and personalized** by helping users:  
+- Focus on **their weak areas**  
+- Build consistent coding habits  
+- Improve retention through **spaced repetition**  
+- Track progress over time and **measure learning outcomes**  
+
+💡 With the Leetcode Practice Assistant, coding practice becomes **structured, data-driven, and personalized**, accelerating learning and mastery of algorithmic problems.  
+
