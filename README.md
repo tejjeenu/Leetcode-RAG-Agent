@@ -37,7 +37,7 @@ Try it here:
 - Answer evaluation and performance-based plan adjustments  
 - Topic-specific practice and customizable daily learning goals  
 - Secure progress and problem tracking with **Firebase**  
-- Backend logic using **FastAPI** to manage spaced repetition, topic recommendations, and adaptive learning  
+- Backend logic using **FastAPI** to manage spaced repetition, topic recommendations, and adaptive learning (code in seperate repo)
 
 ---
 
@@ -57,5 +57,5 @@ This app makes **Leetcode practice more effective and personalized** by helping 
 - Improve retention through **spaced repetition**  
 - Track progress over time and **measure learning outcomes**  
 
-💡 With the Leetcode Practice Assistant, coding practice becomes **structured, data-driven, and personalized**, accelerating learning and mastery of algorithmic problems.  
+💡 With the Leetcode Agent, coding practice becomes **structured, data-driven, and personalized**, accelerating learning and mastery of algorithmic problems.  
 
