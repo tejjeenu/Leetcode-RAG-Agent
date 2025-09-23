@@ -26,7 +26,7 @@ The **Leetcode Agent** addresses these challenges by:
 ## 🌐 Web App  
 
 Try it here:  
-👉 [Leetcode Practice Assistant](https://rag-agent-74989.web.app/)  
+👉 [Leetcode Agent](https://rag-agent-74989.web.app/)  
 
 ---
 
