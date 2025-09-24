@@ -1,4 +1,4 @@
-# 💻 Leetcode Agent 
+# 💻 Leetcode RAG Agent 
 
 A web-based app that helps users **learn and review coding problems effectively** using spaced repetition, personalized learning plans, and topic tracking.  
 
@@ -15,7 +15,7 @@ Many users struggle to consistently improve their coding skills on platforms lik
 
 ## ✅ Solution  
 
-The **Leetcode Agent** addresses these challenges by:  
+The **Leetcode RAG Agent** addresses these challenges by:  
 - **AI-Powered Learning:** AI agent assigns problems, evaluates answers, and adapts the learning plan based on performance.  
 - **Personalized Practice:** Users can practice specific topics, adjust daily learning targets, and receive tailored recommendations.  
 - **Spaced Repetition:** Problems are reviewed intelligently to maximize retention and reinforce weak areas.  
@@ -45,7 +45,7 @@ Try it here:
 
 - **React** – Frontend interface  
 - **Firebase** – Authentication and data storage  
-- **FastAPI** – Backend API for agent logic and spaced repetition (code in seperate repo [Leetcode Agent AI API](https://github.com/tejjeenu/Leetcode-RAG-Agent-AI-API))
+- **FastAPI** – Backend API for RAG functionality, agent logic and spaced repetition (code in seperate repo [Leetcode RAG Agent AI API](https://github.com/tejjeenu/Leetcode-RAG-Agent-AI-API))
 
 ---
 
