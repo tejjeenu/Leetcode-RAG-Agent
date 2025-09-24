@@ -37,7 +37,7 @@ Try it here:
 - Answer evaluation and performance-based plan adjustments  
 - Topic-specific practice and customizable daily learning goals  
 - Secure progress and problem tracking with **Firebase**  
-- Backend logic using **FastAPI** to manage spaced repetition, topic recommendations, and adaptive learning (code in seperate repo)
+- Backend logic using **FastAPI** to manage spaced repetition, topic recommendations, and adaptive learning 
 
 ---
 
@@ -45,7 +45,7 @@ Try it here:
 
 - **React** – Frontend interface  
 - **Firebase** – Authentication and data storage  
-- **FastAPI** – Backend API for agent logic and spaced repetition  
+- **FastAPI** – Backend API for agent logic and spaced repetition (code in seperate repo [Leetcode Agent](https://github.com/tejjeenu/Leetcode-RAG-Agent-AI-API))
 
 ---
 
