@@ -45,7 +45,7 @@ Try it here:
 
 - **React** – Frontend interface  
 - **Firebase** – Authentication and data storage  
-- **FastAPI** – Backend API for RAG functionality, agent logic and spaced repetition (code in seperate repo [Leetcode RAG Agent AI API](https://github.com/tejjeenu/Leetcode-RAG-Agent-AI-API))
+- **FastAPI** – Backend API for RAG functionality, agent logic and spaced repetition
 
 ---
 
