@@ -1,6 +1,9 @@
 # 💻 Leetcode RAG Agent 
 
-A web-based app that helps users **learn and review coding problems effectively** using spaced repetition, personalized learning plans, and topic tracking.  
+A web-based app that helps users **learn and review coding problems effectively** using spaced repetition, personalized learning plans, and topic tracking.
+
+Try it here:  
+👉 [Leetcode Agent](https://rag-agent-74989.web.app/)  
 
 ---
 
@@ -23,12 +26,6 @@ The **Leetcode RAG Agent** addresses these challenges by:
 
 ---
 
-## 🌐 Web App  
-
-Try it here:  
-👉 [Leetcode Agent](https://rag-agent-74989.web.app/)  
-
----
 
 ## ✨ Functionalities  
 
